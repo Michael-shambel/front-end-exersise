@@ -1,0 +1,26 @@
+h1{
+    color: darkgoldenrod;
+}
+body {
+    background-color: green;
+    font-size: xx-large;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-weight: bolder;
+}
+#message{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button {
+    color: #016f32;
+    background: goldenrod;
+    width: 150px;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
